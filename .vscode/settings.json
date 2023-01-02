@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "random": "c",
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "typeinfo": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "memory": "c",
+        "functional": "c",
+        "istream": "c",
+        "tuple": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "iostream": "cpp"
+    }
+}
